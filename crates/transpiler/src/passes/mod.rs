@@ -45,6 +45,7 @@ mod optimize_clifford_t;
 mod remove_diagonal_gates_before_measure;
 mod remove_identity_equiv;
 pub mod sabre;
+pub mod basic_swap;
 mod split_2q_unitaries;
 mod unitary_synthesis;
 mod unroll_3q_or_more;
